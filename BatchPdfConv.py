@@ -10,8 +10,8 @@ load_dotenv()
 
 
 # Configuration
-DOC_DIR = "docs_import"
-EXPORT_DIR = "docs_exports"
+DOC_DIR = "import"
+EXPORT_DIR = "exports"
 DB_CSV = "processed_files.csv"
 LOG_FILE = "conversion.log"
 MAX_RETRIES = 5

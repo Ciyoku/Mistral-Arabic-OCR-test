@@ -177,8 +177,8 @@ conversion.log
 processed_files.csv
 
 # Document directories (if they contain sensitive or large files)
-docs_import/
-docs_exports/
+import/
+exports/
 
 # Temporary files
 *.tmp
