@@ -206,5 +206,5 @@ Thumbs.db
 *.bak
 *.backup
 
-docs_import/
-docs_exports/
+import/
+exports/
